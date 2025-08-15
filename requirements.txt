@@ -1,0 +1,10 @@
+opencv-python 
+pytube 
+ultralytics 
+numpy 
+pandas 
+filterpy
+filterpy
+scikit-image
+lap
+yt-dlp
